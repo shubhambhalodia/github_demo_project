@@ -9,6 +9,3 @@ debuggersd
 SV
 
 SVGDefsElementsd
-ReadableStreamDefaultReaderfd
-f
-ReadableStreamDefaultReaderd
