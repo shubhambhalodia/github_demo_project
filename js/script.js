@@ -3,3 +3,9 @@
 
 var a=1010;
 var b=1010;
+
+function multiply(a,b){
+    return a*b;
+}
+var d=multiply(a,b);
+console.log(d);
