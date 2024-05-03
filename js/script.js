@@ -15,7 +15,7 @@ function addition (a,b){
 }
 var add=addition(a,b);
 
-
+var diff=diff(a,b);
 //added this line in this commit
 
 
